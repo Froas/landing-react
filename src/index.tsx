@@ -3,8 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import { Diplom } from './Diplom';
 import { ErrorPage } from './ErrorPage';
-import reportWebVitals from './reportWebVitals';
-import { RouterProvider, createBrowserRouter, HashRouter } from 'react-router-dom';
+import { RouterProvider, createBrowserRouter } from 'react-router-dom';
 
 
 const router = createBrowserRouter([
