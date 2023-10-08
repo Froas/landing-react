@@ -22,9 +22,7 @@ const router = createBrowserRouter([
 
 ReactDOM.render(
   <React.StrictMode>
-    <HashRouter>
       <RouterProvider router={router} />  
-    </HashRouter>
   </React.StrictMode>,
   document.getElementById('root')
 );
