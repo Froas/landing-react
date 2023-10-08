@@ -4,7 +4,7 @@ import './index.css';
 import { Diplom } from './Diplom';
 import { ErrorPage } from './ErrorPage';
 import reportWebVitals from './reportWebVitals';
-import { RouterProvider, createBrowserRouter } from 'react-router-dom';
+import { RouterProvider, createBrowserRouter, HashRouter } from 'react-router-dom';
 
 
 const router = createBrowserRouter([
@@ -22,7 +22,9 @@ const router = createBrowserRouter([
 
 ReactDOM.render(
   <React.StrictMode>
-    <RouterProvider router={router} />
+    <HashRouter>
+      <RouterProvider router={router} />  
+    </HashRouter>
   </React.StrictMode>,
   document.getElementById('root')
 );
