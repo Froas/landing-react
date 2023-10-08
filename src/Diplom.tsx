@@ -14,20 +14,20 @@ export const Diplom = () => {
                     <div className="Table">
                         <div className="Colum">
                             <div className="ColumnRowFirsrtBold">Familiya:</div>
-                            <div className="ColumnRowFirsrt">MIRZAYEV</div>
+                            <div className="ColumnRowFirsrt">MIRZAYEV MIRZO</div>
                         </div>
                         <div className="Colum">
                             <div className="ColumnRowSecondBold">Ismi:</div>
-                            <div className="ColumnRowSecond">AMIRBEK</div>
+                            <div className="ColumnRowSecond">AZNAVUR</div>
                         </div>
                         <div className="Colum">
                             <div className="ColumnRowFirsrtBold">Pasport raqami:</div>
-                            <div className="ColumnRowFirsrt">AB7580677</div>
+                            <div className="ColumnRowFirsrt">AD1850229</div>
 
                         </div>
                         <div className="Colum">
                             <div className="ColumnRowSecondBold">Tug'ilgan sana:</div>
-                            <div className="ColumnRowSecond">06.08.2001</div>
+                            <div className="ColumnRowSecond">05.02.2000</div>
                         </div>
                     </div>
                 </div>
