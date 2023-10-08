@@ -6,7 +6,7 @@ export const ErrorPage = () => {
     }, []);
     return (
         <div className="Error">
-            Ma'lumot topilmadi  1
+            Ma'lumot topilmadi  111
         </div>
     )
 }
