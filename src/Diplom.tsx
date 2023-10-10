@@ -14,11 +14,11 @@ export const Diplom = () => {
                     <div className="Table">
                         <div className="Colum">
                             <div className="ColumnRowFirsrtBold">Familiya:</div>
-                            <div className="ColumnRowFirsrt">MIRZAYEV MIRZO</div>
+                            <div className="ColumnRowFirsrt">MIRZAYEV</div>
                         </div>
                         <div className="Colum">
                             <div className="ColumnRowSecondBold">Ismi:</div>
-                            <div className="ColumnRowSecond">AZNAVUR</div>
+                            <div className="ColumnRowSecond">MIRZO AZNAVUR</div>
                         </div>
                         <div className="Colum">
                             <div className="ColumnRowFirsrtBold">Pasport raqami:</div>
